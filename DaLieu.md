@@ -41,4 +41,3 @@ Là bệnh nhiễm trùng do vi khuẩn tụ cầu vàng và liên cầu gây n�
 ### 11. Bệnh vảy nến
 - Bệnh miễn dịch do Gen với yếu tố 3 không : không khỏi, không chết, không lây
 
-- [Môn học về bệnh da liễu](Môn-học-về-các-bệnh-da-liễu)
