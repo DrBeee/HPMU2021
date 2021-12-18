@@ -1,6 +1,6 @@
 # HPMU2021
 
-Thuộc dự án nghiên cứu trọng điểm cấp Bộ Y Tế.
+Ăn hại là chính.
 
 ## Bản quyền
 
